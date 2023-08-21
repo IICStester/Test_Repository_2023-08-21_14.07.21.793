@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "2phg5WTbwYXj3tPwWpI9AA",
+    "name" : "PullByCommitHash_Mapping - Delete",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010002170000000003B0"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-08-21T21:07:54.537Z",
+  "objectRefs" : [ ]
+}
